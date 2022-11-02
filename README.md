@@ -1,1 +1,1 @@
-# Repostório com os desafios feitos para o curso do DevSuperior
+# Repositório com os desafios feitos para o curso do DevSuperior
